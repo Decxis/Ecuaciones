@@ -1,0 +1,4 @@
+X=a+b-c*d////e
+a=b+c-d
+y=3*x
+(f=g+h-i*j/k)
